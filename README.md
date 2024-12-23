@@ -1,1 +1,1 @@
-# mkdir-lighthouse-js-fundamentals-kata
+lighthouse-fundamentals-kata
