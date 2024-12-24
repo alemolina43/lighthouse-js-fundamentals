@@ -1,1 +1,2 @@
-This repository contains all the exercises in the JS Mastery section for the LHL prep course
+This folder contains all the challenges contained in the JS Mastery chapter 
+
